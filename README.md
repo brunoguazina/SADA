@@ -1,4 +1,4 @@
 SADA
 ====
 
-Test UI/UX Designer para Digix
+Teste UI/UX Designer para Digix
